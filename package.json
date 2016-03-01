@@ -1,0 +1,31 @@
+{
+  "name": "cf-auth",
+  "version": "1.0.0",
+  "description": "Codeforces authenticator",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pin3da/cf-auth.git"
+  },
+  "keywords": [
+    "codeforces",
+    "api",
+    "authentication",
+    "auth"
+  ],
+  "author": "Manuel Pineda <manuel.felipe.pineda@gmail.com> (http://github.com/pin3da)",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/pin3da/cf-auth/issues"
+  },
+  "homepage": "https://github.com/pin3da/cf-auth#readme",
+  "dependencies": {
+    "randomstring": "^1.1.4"
+  },
+  "bin": {
+    "cfauth": "./bin.js"
+  }
+}
