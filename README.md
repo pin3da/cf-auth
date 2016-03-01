@@ -1,0 +1,2 @@
+# cf-auth
+Codeforces authenticator
