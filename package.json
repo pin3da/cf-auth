@@ -1,6 +1,6 @@
 {
   "name": "cf-auth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Codeforces authenticator",
   "main": "index.js",
   "scripts": {
