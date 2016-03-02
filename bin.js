@@ -18,7 +18,7 @@ if (!target) {
 }
 
 var path = require('path');
-var keys = require(path.join(__dirname, pathToKeys));
+var keys = require(pathToKeys);
 
 var auth = CFAuth(keys);
 console.log(auth.genURL(target));

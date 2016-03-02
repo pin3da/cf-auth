@@ -7,7 +7,12 @@ Install
 =======
 
     npm install cf-auth
-    
+
+global install
+
+    npm install cf-auth -g
+
+
 Usage
 =====
 
